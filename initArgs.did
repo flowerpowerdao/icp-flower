@@ -1,7 +1,6 @@
 (
   principal "4ggk4-mqaaa-aaaae-qad6q-cai",
   record {
-    restoreEnabled = true;
     name = "ICP Flower";
     sale = variant { supply = 2021 };
     salePrice = 500_000_000; // 5 ICP
